@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Gadget, sans-serif;
+}
+
+body {
+    margin: 0px;
+    background-color: #273238;
+    color: #698593;
+}
+
+.seccion-cabecera h1 {
+    background-color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 54px;
+    text-align: center;
+    margin: 32px 8px 32px 8px ;
+}
+
+.seccion-cabecera p {  
+    text-align: justify;
+    color: white;
+    margin: 8px;
+    line-height: 1.5;
+}
+
+.seccion-elementos h2 {
+    color: #e6cbbf;
+    margin: 24px 8px 8px 8px;
+    font-style: italic;
+}
+
+.seccion-elementos p {
+    text-align: justify;
+    color: white;
+    margin: 8px;
+    line-height: 1.5;
+}
+
+.seccion-elementos img {
+    width: 500px;
+    margin: 8px 8px 8px 40px ;
+    border-style: solid;
+    border-color: gray;
+    border-width: 4px;
+}
