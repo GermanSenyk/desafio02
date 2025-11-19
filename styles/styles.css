@@ -34,10 +34,11 @@ body {
     color: white;
     margin: 8px;
     line-height: 1.5;
+    
 }
 
 .seccion-elementos img {
-    width: 500px;
+    max-width: 500px;
     margin: 8px 8px 8px 40px ;
     border-style: solid;
     border-color: gray;
